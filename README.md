@@ -1,5 +1,11 @@
 # C# Cheat Sheet
 
+Inspired by and based on the following cheat sheets:
+
+- https://github.com/mortennobel/cpp-cheatsheet
+- https://github.com/gto76/python-cheatsheet
+- https://github.com/gibsjose/cpp-cheat-sheet
+
 ## Table of Contents
 - [C# Cheat Sheet](#c-cheat-sheet)
   - [Table of Contents](#table-of-contents)
